@@ -1,0 +1,1 @@
+no i have all the controllers, models and repositories of the medic, appointment and patient. i just want the creation of the services based of what i made of the patient
